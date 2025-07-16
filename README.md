@@ -1,6 +1,6 @@
 *Proyecto de Turnos Médicos*
 
-Este repositorio contiene el material trabajado en Practicas Profesionalizantes 
+Este repositorio contiene el material de un proyecto llamado "Analisis y diseño" en Practicas Profesionalizantes.
 
 *Contenido*
 
