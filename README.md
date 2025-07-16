@@ -2,7 +2,7 @@
 
 Este repositorio contiene el material trabajado en Practicas Profesionalizantes 
 
-##Contenido
+Contenido
 
 - Prototipo de Interfaz
 - Diagramas de flujo de turnos
